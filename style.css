@@ -1,0 +1,18 @@
+.clock-container {
+    display: flex;
+    justify-content: center;
+}
+
+.clock {
+    text-align: center;
+    margin: 10px;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+p {
+    font-size: 20px;
+    font-weight: bold;
+}
